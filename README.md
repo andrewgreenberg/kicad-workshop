@@ -1,2 +1,3 @@
 # kicad-workshop
-Files for KiCAD
+
+Files for KiCAD and all sorts of things KiCAD related.
