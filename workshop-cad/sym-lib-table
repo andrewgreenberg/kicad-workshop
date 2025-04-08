@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "workshop-lib")(type "KiCad")(uri "${KIPRJMOD}/workshop-lib.kicad_sym")(options "")(descr ""))
+)

@@ -41,7 +41,7 @@
         "silk_text_italic": false,
         "silk_text_size_h": 1.0,
         "silk_text_size_v": 1.0,
-        "silk_text_thickness": 0.15,
+        "silk_text_thickness": 0.127,
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
@@ -88,6 +88,7 @@
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
+        "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
         "track_dangling": "warning",
         "track_width": "error",
@@ -126,7 +127,8 @@
         0.35,
         0.4,
         0.45,
-        1.0
+        1.0,
+        2.0
       ],
       "via_dimensions": [
         {
@@ -152,7 +154,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "osh-park-2-layer-kicad-5.99-drc-template.kicad_pro",
+    "filename": "drc-template-osh-park-2-layer.kicad_pro",
     "version": 1
   },
   "net_settings": {
